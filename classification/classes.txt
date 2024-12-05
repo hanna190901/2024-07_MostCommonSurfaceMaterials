@@ -1,0 +1,13 @@
+1 	asphalt 	10x 	black
+2 	stones 		16x	dark grey
+3 	gravel 		10x	yellow
+4 	facade 		15x	bright grey
+5 	ceramic Roof 	12x	red
+6 	metal Roof 	12x	pink
+7 	concrete Roof 	11x	orange
+8 	grass Roof 	12x	bright blue
+9 	tree 		11x	dark green
+10 	grass 		17x	bright green
+11 	water 		4x	dark blue
+
+= 130 samples
